@@ -33,10 +33,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/mariamALLI/stats-preview-card-display.git)
 - Live Site URL: [Netlify](https://stats-preview-card-dsplay.netlify.app/)
 
 ## My process
+Started the design with grid column from bootstrap which created two columns, then i designed the
+empty columns markup classes. After making the skeletal body in both desktop and mobile version,
+then i started inserting the other designs the columns were meant to display.
+In conclusion, i created the body first to make sure its in order before inputing the rest of the design that the body will in habit.
 
 ### Built with
 
@@ -47,8 +51,6 @@ Users should be able to:
 - Mobile-first workflow
 - BootStrap
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Learnt the use of background-blend-mode on implementing the background color on the image applied for the design.
@@ -58,7 +60,7 @@ Will continue my development on the use of Bootstrap.
 Bootstrap documentation also helped knowing how i want the design to appear.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@mariamAlli](https://www.frontendmentor.io/profile/mariamAlli)
+- Twitter - [@mariam_oalli](https://www.twitter.com/mariam_oalli)
 
 
