@@ -135,7 +135,9 @@ margin-right: 90px;
     }
 
     .row {
-          flex-direction: column-reverse;  
+          flex-direction: column-reverse;
+          width: 354px;
+          height: 900px;
     }
 
     .card-text {
