@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/mariamALLI/stats-preview-card-display.git)
-- Live Site URL: [Netlify](https://stats-preview-card-dsplay.netlify.app/)
+- Live Site URL: [Netlify](https://statscardpreview.netlify.app/)
 
 ## My process
 Started the design with grid column from bootstrap which created two columns, then i designed the
